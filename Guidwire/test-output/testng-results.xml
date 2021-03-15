@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21296" started-at="2021-03-12T10:03:31Z" finished-at="2021-03-12T10:03:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21296" started-at="2021-03-12T10:03:31Z" finished-at="2021-03-12T10:03:52Z">
+      <class name="Guidwire.CreatingAccount">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="initialize" is-config="true" duration-ms="5308" started-at="2021-03-12T15:33:31Z" finished-at="2021-03-12T15:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="createAccount" duration-ms="6634" started-at="2021-03-12T15:33:36Z" finished-at="2021-03-12T15:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="newLoactions()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="newLoactions" duration-ms="4549" started-at="2021-03-12T15:33:43Z" finished-at="2021-03-12T15:33:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newLoactions -->
+        <test-method status="PASS" signature="obuildings()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="obuildings" duration-ms="249" started-at="2021-03-12T15:33:47Z" finished-at="2021-03-12T15:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- obuildings -->
+        <test-method status="PASS" signature="psearch()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="psearch" duration-ms="3764" started-at="2021-03-12T15:33:48Z" finished-at="2021-03-12T15:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- psearch -->
+        <test-method status="PASS" signature="qmodifiers()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="qmodifiers" duration-ms="403" started-at="2021-03-12T15:33:52Z" finished-at="2021-03-12T15:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- qmodifiers -->
+        <test-method status="PASS" signature="rriskanalyzis()[pri:0, instance:Guidwire.CreatingAccount@28feb3fa]" name="rriskanalyzis" duration-ms="371" started-at="2021-03-12T15:33:52Z" finished-at="2021-03-12T15:33:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rriskanalyzis -->
+      </class> <!-- Guidwire.CreatingAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

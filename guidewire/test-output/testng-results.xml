@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10805" started-at="2021-03-11T07:12:06Z" finished-at="2021-03-11T07:12:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10805" started-at="2021-03-11T07:12:06Z" finished-at="2021-03-11T07:12:17Z">
+      <class name="com.gw.qa.PolicyCenter.NewSubmisstionPerson">
+        <test-method status="PASS" signature="setLog4j()[pri:0, instance:com.gw.qa.PolicyCenter.NewSubmisstionPerson@2638011]" name="setLog4j" is-config="true" duration-ms="31" started-at="2021-03-11T12:42:06Z" finished-at="2021-03-11T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLog4j -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.gw.qa.PolicyCenter.NewSubmisstionPerson@2638011]" name="init" is-config="true" duration-ms="7488" started-at="2021-03-11T12:42:06Z" depends-on-methods="com.gw.qa.base.TestBase.setLog4j" finished-at="2021-03-11T12:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="createNewSubmissionPerson()[pri:0, instance:com.gw.qa.PolicyCenter.NewSubmisstionPerson@2638011]" name="createNewSubmissionPerson" duration-ms="3264" started-at="2021-03-11T12:42:14Z" finished-at="2021-03-11T12:42:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewSubmissionPerson -->
+      </class> <!-- com.gw.qa.PolicyCenter.NewSubmisstionPerson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
